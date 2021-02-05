@@ -1,8 +1,8 @@
 #ISIS1225 - Estructura de un proyecto
 
 # Integrantes
-* Estudiante 1: Andrés Felipe Gómez García
-* Estudiante 2: Tomás Bedoya Calixto
+* Estudiante 1: Andrés Felipe Gómez García, af.gomezg1@uniandes.edu.co, 202021189
+* Estudiante 2: Tomás Bedoya Calixto, t.bedoya@uniandes.edu.co, 202020689
 
 --------------------------------
 
